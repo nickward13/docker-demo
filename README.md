@@ -1,0 +1,1 @@
+This repository contains a simple asp.net core web app which reports back the operating system on which it is running.  Included is a Dockerfile, and a series of CMD files to build, run and push a Docker container.

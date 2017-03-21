@@ -1,0 +1,4 @@
+aspnetapp/bin/**
+aspnetapp/obj/**
+aspnetapp/wwwroot/**
+aspnetapp/.vscode
